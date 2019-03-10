@@ -1,0 +1,9 @@
+{
+  "name": "poisson-distribution",
+  "main": "poisson-distribution.js",
+  "version": "289.0.0",
+  "author": {
+    "name": "Jesús Martínez-Blanco",
+    "url": "https://observablehq.com/@chumo"
+  }
+}
